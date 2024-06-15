@@ -28,3 +28,4 @@ C:\Users\Mustafa\Desktop\DemoProjects\SignalR\SignalRServerExamle\obj\Debug\net8
 C:\Users\Mustafa\Desktop\DemoProjects\SignalR\SignalRServerExamle\obj\Debug\net8.0\SignalRServerExamle.pdb
 C:\Users\Mustafa\Desktop\DemoProjects\SignalR\SignalRServerExamle\obj\Debug\net8.0\SignalRServerExamle.genruntimeconfig.cache
 C:\Users\Mustafa\Desktop\DemoProjects\SignalR\SignalRServerExamle\obj\Debug\net8.0\ref\SignalRServerExamle.dll
+C:\Users\Mustafa\Desktop\DemoProjects\SignalR\SignalRServerExamle\obj\Debug\net8.0\SignalRServerExamle.sourcelink.json
